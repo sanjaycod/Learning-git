@@ -4,3 +4,5 @@
 4. Repeat 
 5. Well done on completing the exercise no one 
 6. Keep going on track
+7. Well done on creating a new branch and changing it 
+8. Commit it in the side branch and update it to the main branch by pulling it 
